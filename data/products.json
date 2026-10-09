@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "name": "Кроссовки Sprint",
+    "brand": "SportPro",
+    "category": "Обувь",
+    "price": 4500,
+    "sizes": {
+      "40": 3,
+      "41": 0,
+      "42": 0
+    }
+  },
+  {
+    "id": 2,
+    "name": "Футболка Run",
+    "brand": "Active",
+    "category": "Одежда",
+    "price": 1800,
+    "sizes": {
+      "M": 8,
+      "L": 6
+    }
+  },
+  {
+    "id": 3,
+    "name": "Мяч Match",
+    "brand": "SportPro",
+    "category": "Инвентарь",
+    "price": 3200,
+    "quantity": 12
+  }
+]
